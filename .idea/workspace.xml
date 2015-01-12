@@ -794,7 +794,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421098541560</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="test">
+      <created>1421099526854</created>
+      <option name="number" value="00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1421099526854</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -852,7 +858,8 @@
     <MESSAGE value="2" />
     <MESSAGE value="&#10;3&#10;" />
     <MESSAGE value="&#10;a&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;a&#10;" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
