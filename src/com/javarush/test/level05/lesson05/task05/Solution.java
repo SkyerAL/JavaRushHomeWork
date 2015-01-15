@@ -10,6 +10,14 @@ package com.javarush.test.level05.lesson05.task05;
 public class Solution {
     public static void main(String[] args) {
         //add your code here
+        Cat vaska = new Cat("vaska", 10, 23, 100);
+        Cat petka = new Cat("petka", 11, 24, 101);
+        Cat murka = new Cat("murka", 9, 15, 50);
+
+        System.out.println(vaska.fight(petka));
+        System.out.println(petka.fight(murka));
+        System.out.println(murka.fight(vaska));
+
     }
 
     public static class Cat {
