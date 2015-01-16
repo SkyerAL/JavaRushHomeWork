@@ -13,16 +13,16 @@ public class Dog
     private String name, color;
     private int rost;
 
-    public void init(String name){
+    public void initialize(String name){
         this.name = name;
     }
 
-    public void init(String name, int rost){
+    public void initialize(String name, int rost){
         this.name = name;
         this.rost = rost;
     }
 
-    public void init(String name, int rost, String color){
+    public void initialize(String name, int rost, String color){
         this.name = name;
         this.rost = rost;
         this.color = color;
