@@ -70,6 +70,9 @@ public class Solution
         Cat(String name)
         {
             this.name = name;
+            this.parentFather = null;
+            this.parentMother = null;
+
         }
 
         Cat(String name, Cat parentFather, Cat parentMother)
@@ -89,6 +92,7 @@ public class Solution
 
 
         }
+
     }
 
 }
