@@ -10,16 +10,24 @@ public class Solution
 {
     public static void main(String[] args)
     {
-        //Cоздай 10 объектов Cat тут
+        for (int i = 0; i < 10; i++)
+        {
+           Cat cat_new = new Cat();
+        }
 
-        // Выведи на экран catCount тут
+        System.out.println(Cat.catCount);
+
     }
 
     public static class Cat
     {
-        //Cоздай статическую переменную тут
+        public static int catCount;
 
-        //создай конструктор тут
+        public Cat()
+        {
+            catCount++;
+        }
     }
+
 
 }
