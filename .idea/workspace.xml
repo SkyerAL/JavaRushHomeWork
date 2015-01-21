@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task03/Util.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task04/ConsoleReader.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
@@ -73,11 +73,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Util.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task03/Util.java">
+      <file leaf-file-name="ConsoleReader.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task04/ConsoleReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10440835" vertical-offset="0" max-vertical-offset="431">
-              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.5823666" vertical-offset="424" max-vertical-offset="855">
+              <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -101,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson06/task01/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson06/task02/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson06/task03/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson06/task04/Solution.java" />
@@ -152,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task01/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task02/Cat.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task03/Util.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task04/ConsoleReader.java" />
       </list>
     </option>
   </component>
@@ -1029,7 +1029,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421847379088</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="test level06 lesson08 task 03">
+      <created>1421847677683</created>
+      <option name="number" value="00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1421847677683</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1124,7 +1130,8 @@
     <MESSAGE value="test lev 6 les5 t4" />
     <MESSAGE value="test level06 lesson08 task 01" />
     <MESSAGE value="test level06 lesson08 task 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="test level06 lesson08 task 02" />
+    <MESSAGE value="test level06 lesson08 task 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="test level06 lesson08 task 03" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1138,13 +1145,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson06/task05/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10489511" vertical-offset="0" max-vertical-offset="429">
-          <caret line="3" column="89" selection-start-line="3" selection-start-column="89" selection-end-line="3" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson06/task06/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7692308" vertical-offset="0" max-vertical-offset="429">
@@ -1527,6 +1527,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10440835" vertical-offset="0" max-vertical-offset="431">
           <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson08/task04/ConsoleReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5823666" vertical-offset="424" max-vertical-offset="855">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
           <folding />
         </state>
       </provider>
