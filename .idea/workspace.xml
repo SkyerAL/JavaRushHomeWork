@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home06/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home07/Solution.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JavaRushHomeWork.iws" />
@@ -74,14 +74,11 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home06/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home07/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17401393" vertical-offset="0" max-vertical-offset="431">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.38283062" vertical-offset="0" max-vertical-offset="431">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -104,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson10/task03/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson10/task04/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson10/task05/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task01/Solution.java" />
@@ -155,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home04/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home05/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home06/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home07/Solution.java" />
       </list>
     </option>
   </component>
@@ -804,12 +801,6 @@
       <option name="number" value="Default" />
       <updated>1355835879150</updated>
     </task>
-    <task id="LOCAL-00006" summary="&#10;3&#10;">
-      <created>1421051478519</created>
-      <option name="number" value="00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1421051478519</updated>
-    </task>
     <task id="LOCAL-00007" summary="&#10;a&#10;">
       <created>1421090421216</created>
       <option name="number" value="00007" />
@@ -1098,7 +1089,13 @@
       <option name="project" value="LOCAL" />
       <updated>1421850759690</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="test level06 lesson11 home 06">
+      <created>1421851714720</created>
+      <option name="number" value="00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1421851714720</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1171,7 +1168,6 @@
       <TodoPanelSettings />
     </option>
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
-    <MESSAGE value="&#10;a&#10;" />
     <MESSAGE value="test" />
     <MESSAGE value="test l7 t1" />
     <MESSAGE value="test l7 t2" />
@@ -1196,7 +1192,8 @@
     <MESSAGE value="test level06 lesson11 home 03" />
     <MESSAGE value="test level06 lesson11 home 04" />
     <MESSAGE value="test level06 lesson11 home 05" />
-    <option name="LAST_COMMIT_MESSAGE" value="test level06 lesson11 home 05" />
+    <MESSAGE value="test level06 lesson11 home 06" />
+    <option name="LAST_COMMIT_MESSAGE" value="test level06 lesson11 home 06" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1210,13 +1207,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task02/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4755245" vertical-offset="21" max-vertical-offset="585">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level04/lesson13/task03/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41958043" vertical-offset="0" max-vertical-offset="525">
@@ -1347,6 +1337,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6293706" vertical-offset="0" max-vertical-offset="585">
           <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#280#281#0" expanded="false" />
+            <element signature="e#312#313#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1382,6 +1376,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7692308" vertical-offset="60" max-vertical-offset="570">
           <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#302#303#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1410,6 +1408,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13986014" vertical-offset="270" max-vertical-offset="840">
           <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1417,6 +1416,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.5944056" vertical-offset="495" max-vertical-offset="1005">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1630,6 +1630,14 @@
             <element signature="e#242#243#0" expanded="true" />
             <element signature="e#303#304#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level06/lesson11/home07/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38283062" vertical-offset="0" max-vertical-offset="431">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
